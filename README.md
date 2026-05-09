@@ -43,6 +43,8 @@ La aplicación deberá implementarse utilizando una arquitectura de tres capas:
 
 3. Capa de Datos: Responsable del almacenamiento y la gestión de la información. Se podrá utilizar un sistema de gestión de bases de datos (SGBD) para la persistencia de los datos.
 
+---
+
 #### Entregar:
 
 1. Documento de Diseño: Descripción detallada de la arquitectura del sistema, el diseño de la base de datos, la especificación de los servicios web (parámetros, formatos de datos), la descripción de la interfaz de usuario, el mecanismo de control de concurrencia y los mecanismos de seguridad implementados.
@@ -55,7 +57,6 @@ La aplicación deberá implementarse utilizando una arquitectura de tres capas:
 
 5. Presentación: Exposición del proyecto, demostración de la funcionalidad y explicación de las decisiones de diseño.
 
----
 
 ### Criterios de Evaluación
 
@@ -67,3 +68,4 @@ La aplicación deberá implementarse utilizando una arquitectura de tres capas:
 | Documentación                                     | 20%             |
 | Presentación final del proyecto                   | 10%             |
 | **Total**                                         | 100%            |
+
