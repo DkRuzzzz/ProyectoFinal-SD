@@ -60,10 +60,10 @@ La aplicación deberá implementarse utilizando una arquitectura de tres capas:
 ### Criterios de Evaluación
 
 
-| **Criterio**                                     | **Porcentaje**  |
-| ------------------------------------------------ | :-------------: |
-| Cumplimiento de requisitos funcionales           | 35%             |
-| Implementación técnica (seguridad y concurrencia | 35%             |
-| Documentación                                    | 20%             |
-| Presentación final del proyecto                  | 10%             |
-| **Total**                                        | 100%            |
+| **Criterio**                                      | **Porcentaje**  |
+| ------------------------------------------------- | :-------------: |
+| Cumplimiento de requisitos funcionales            | 35%             |
+| Implementación técnica (seguridad y concurrencia) | 35%             |
+| Documentación                                     | 20%             |
+| Presentación final del proyecto                   | 10%             |
+| **Total**                                         | 100%            |
